@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Excellent CRM for small to mid-sized businesses",
+    "review": "HubSpot has been a game-changer for our sales team. The interface is intuitive and the automation features save us hours each week. The free tier is generous, making it perfect for startups. Customer support is responsive and helpful.",
+    "date": "2024-02-14",
+    "rating": "5.0",
+    "reviewer_name": "Alex Chen",
+    "source": "G2",
+    "company": "hubspot"
+  },
+  {
+    "title": "Good but pricey for enterprise features",
+    "review": "Great features and solid support, but the pricing tiers are steep for startups trying to scale. Would love to see more flexible plans or a pay-as-you-go model. Still worth it if your budget allows.",
+    "date": "2024-05-20",
+    "rating": "4.0",
+    "reviewer_name": "Maria Rodriguez",
+    "source": "G2",
+    "company": "hubspot"
+  },
+  {
+    "title": "Powerful marketing automation platform",
+    "review": "The email and marketing automation tools are fantastic. We've increased our email open rates by 40% since implementation. The reporting dashboard could be more intuitive, but overall very satisfied with the platform.",
+    "date": "2024-08-10",
+    "rating": "4.5",
+    "reviewer_name": "James Wilson",
+    "source": "Capterra",
+    "company": "hubspot"
+  },
+  {
+    "title": "Learning curve but worth the effort",
+    "review": "Initial setup was time-consuming and the platform has a steep learning curve. However, once you get the hang of it, it's incredibly powerful. Their knowledge base and video tutorials are helpful resources.",
+    "date": "2024-09-03",
+    "rating": "4.0",
+    "reviewer_name": "Priya Patel",
+    "source": "Capterra",
+    "company": "hubspot"
+  },
+  {
+    "title": "Best-in-class CRM solution",
+    "review": "After trying several CRM platforms, HubSpot stands out. The integration ecosystem is extensive, allowing seamless connection with tools we already use. Customer onboarding was smooth and efficient.",
+    "date": "2024-11-25",
+    "rating": "5.0",
+    "reviewer_name": "David Thompson",
+    "source": "GetApp",
+    "company": "hubspot"
+  },
+  {
+    "title": "Great for sales, okay for support",
+    "review": "Sales Hub is excellent for managing pipelines and deals. Support Hub integration feels somewhat clunky. Would recommend for sales teams but may need supplementary tools for customer support operations.",
+    "date": "2024-10-15",
+    "rating": "4.0",
+    "reviewer_name": "Sarah Kim",
+    "source": "G2",
+    "company": "hubspot"
+  },
+  {
+    "title": "Reliable and continuously improving",
+    "review": "HubSpot regularly updates features based on user feedback. The product roadmap is transparent and the company listens to its users. Been using for 3 years and keep finding new ways to optimize our processes.",
+    "date": "2024-07-08",
+    "rating": "4.5",
+    "reviewer_name": "Michael Johnson",
+    "source": "GetApp",
+    "company": "hubspot"
+  },
+  {
+    "title": "Good free tier but expensive to scale",
+    "review": "The free version is generous and lets you test features. Paid plans are where it gets pricey. Feature-rich but consider your ROI carefully before upgrading to premium tiers.",
+    "date": "2024-03-22",
+    "rating": "3.5",
+    "reviewer_name": "Emma Davis",
+    "source": "Capterra",
+    "company": "hubspot"
+  }
+]
